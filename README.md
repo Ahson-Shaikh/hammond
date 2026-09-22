@@ -121,6 +121,10 @@ services:
    docker-compose up -d
 ```
 
+### Using Easypanel
+
+[Easypanel](https://easypanel.io) is a self-hosted Docker deployment platform, and Hammond has a one-click deployment template there: https://easypanel.io/templates/hammond - it sets up the config and assets volumes for you automatically.
+
 ### Build from Source / Ubuntu Installation
 
 Although personally I feel that using the docker container is the best way of using and enjoying something like hammond, a lot of people in the community are still not comfortable with using Docker and wanted to host it natively on their Linux servers. Follow the link below to get a guide on how to build hammond from source.
